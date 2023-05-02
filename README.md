@@ -11,11 +11,16 @@
 
 ## Demo
 
-- TO BE ADDED
+https://user-images.githubusercontent.com/20226361/235618304-a5067753-2017-4849-a5cd-d58463e5b766.mov
+
+<div align="center">
+    </p>How GPT crushes my high score in 2048</p>
+</div>
+
 
 ## Play
 
-- Replace the `OPENAI_KEY` in [`main.js`]() with your own key.
+- Replace the `OPENAI_KEY` in [`main.js`](https://github.com/inishchith/2048/blob/2f1ae2a1acb5d6ddabac01835316ce4618f12a3a/main.js#LL1C1-L1C1) with your own key.
 - Navigate to `2048.io`
 - Paste the contents of `main.js` in your browser console. That's it!
 
